@@ -11,7 +11,7 @@ function App() {
       <div className="card">
         <ImageCard src="pov.jpg" desc="POV"></ImageCard>
         <ImageCard src="overtheshoulder.jpg" desc="Over the shoulder"></ImageCard>
-        
+        <ImageCard src="wide.png" desc="Wide Angle"></ImageCard>
       </div>
     </>
   )
